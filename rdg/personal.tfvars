@@ -1,0 +1,7 @@
+tenancy_ocid = "ocid1.tenancy.oc1..aaaaaaaahww27qgv44s5ibdur2pdshfheobg7je6rsawkqwr3wrilff7mn4q"
+user_ocid = "ocid1.user.oc1..aaaaaaaah2bclsokfnv5k5ucqi2uqfgto2tdnydw5edibjvrnlfaofhmjjba"
+fingerprint = "f4:c6:62:e9:d4:f6:ec:ae:0a:b2:5e:5a:6a:67:76:cf"
+private_key_path = "/home/absalon/.oci/oci_api_key.pem"
+compartment_ocid ="ocid1.tenancy.oc1..aaaaaaaahww27qgv44s5ibdur2pdshfheobg7je6rsawkqwr3wrilff7mn4q"
+region ="us-ashburn-1"
+vm_ssh_public_key="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCSnsp45Cq5tOofh354wAYoou7MHGrzgFYLyM981UTJW2vtgOO9DNyn5vbkKFdtVNrvCUCjbhSqhhKdJSqX23+fl4/tOVZof0sKWLv9Evj0M4TjJ9isszhtbFfjuh37vAJ1IHnd2E0QsUpL3P2gIHTuoU9hzaCq7mFBRC9aP0Pz4EwLyDBwtErMsiWapARR0nUGLdZMQwANwdvOo9/7hlyiriYwAw3TChWyuYnyDSvO89EugHsail7b+v/Pi7ani+lpp0jMIFkFAtur7kiPFz6TzK6gw75OMZLMf3kilTWMZaKLzIUy/BL2QOtRe1HAdzQA4jqQm0GYkvKRkDzMm2zf ssh-key-2020-12-23"
