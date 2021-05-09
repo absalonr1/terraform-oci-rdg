@@ -1,0 +1,6 @@
+tenancy_ocid = "ocid1.tenancy.oc1..aaaaaaaavl2ndgiiefoo2u4a7atlq2czcwyiu5zzb6rzwwpeyt5o2xmtaxwa"
+user_ocid = "ocid1.user.oc1..aaaaaaaag3fq6jzmx33hzxeky2rnumgalddy2nehiuiq47gispvg3icmbqwq"
+fingerprint = "46:68:55:c3:cc:2e:8b:8c:85:2e:90:22:d0:aa:fe:5d"
+private_key_path = "./api-key-ladmcr/oracleidentitycloudservice_absalon.opazo-12-24-15-52.pem"
+compartment_ocid="ocid1.compartment.oc1..aaaaaaaahr5yytqlt3bdb7vv4r5ngr6ahe4sj2kpqkq6bqsdrdi64nvrbc3q"
+region ="us-ashburn-1"
